@@ -1,0 +1,18 @@
+export const data = [
+  { title: "Melodía de bayas mixtas", stars: 3 },
+  { title: "Sopa tailandesa de coliflor al curry rojo", stars: 2 },
+  { title: "Berenjena especiada crujiente", stars: 1 },
+  { title: "Sopa de calabaza con un toque", stars: 4 },
+  { title: "Ensalada de tofu carbonizado, maíz y espárragos", stars: 1 },
+  { title: "Pollo al pesto cremoso en una sartén y ñoquis", stars: 4 },
+  { title: "Pastel de pollo cremoso", stars: 1 },
+  { title: "Pollo y papas a la francesa", stars: 4 },
+  { title: "Estofado de ternera y verduras", stars: 1 },
+  { title: "Lasaña de calabaza, espinacas y lentejas", stars: 3 },
+  { title: "Soothing chicken soup", stars: 1 },
+  { title: "Sopa de pollo calmante", stars: 4 },
+  { title: "Enchiladas rapidas de carne", stars: 1 },
+  { title: "Pollo al disco con champignones", stars: 4 },
+  { title: "Horneado de brócoli con queso", stars: 1 },
+  { title: "Ragú de pierna de cordero con pappardelle", stars: 2 },
+];
