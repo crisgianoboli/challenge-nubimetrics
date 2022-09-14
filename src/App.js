@@ -1,14 +1,8 @@
 import "./App.css";
-import Logo from "./assets/Logo";
-import foodImg from "./assets/food.jpg";
+import Home from "./views/Home";
 
 function App() {
-  return (
-    <div>
-      <Logo />
-      <img src={foodImg} alt="foodImg" />
-    </div>
-  );
+  return <Home />
 }
 
 export default App;
